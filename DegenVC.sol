@@ -9,7 +9,7 @@ pragma solidity ^0.6.0;
  * Name: Degen VC
  * Symbol: DGVC
  * Max Supply: 1000000
- * Deployed to: 0x
+ * Deployed to: 0x26E43759551333e57F073bb0772F50329A957b30
  * Website: www.degen.VC | https://www.degen.vc
  */
 
